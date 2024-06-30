@@ -1,0 +1,82 @@
+{
+  "bathroom": [
+    {
+      "id": 1,
+      "img": "https://images.squarespace-cdn.com/content/v1/6465e9f0c32fb30720d59d36/1685671463361-LZSDHTV4I7F98SL6ASVC/small+bathroom+sink.jpeg",
+      "name": "Minimal Bath Room",
+      "type": "Decor / Architecture"
+    },
+    {
+      "id": 2,
+      "img": "https://images.squarespace-cdn.com/content/v1/6465e9f0c32fb30720d59d36/1685671463361-LZSDHTV4I7F98SL6ASVC/small+bathroom+sink.jpeg",
+      "name": "Minimal Bath Room",
+      "type": "Decor / Architecture"
+    },
+    {
+      "id": 3,
+      "img": "https://images.squarespace-cdn.com/content/v1/6465e9f0c32fb30720d59d36/1685671463361-LZSDHTV4I7F98SL6ASVC/small+bathroom+sink.jpeg",
+      "name": "Minimal Bath Room",
+      "type": "Decor / Architecture"
+    }
+  ],
+  "bedroom": [
+    {
+      "id": 1,
+      "img": "https://i.pinimg.com/736x/dd/73/45/dd7345e3eca4b289bc94763f80508794.jpg",
+      "name": "Minimal Bedroom",
+      "type": "Decor / Architecture"
+    },
+    {
+      "id": 2,
+      "img": "https://i.pinimg.com/736x/dd/73/45/dd7345e3eca4b289bc94763f80508794.jpg",
+      "name": "Minimal Bedroom",
+      "type": "Decor / Architecture"
+    },
+    {
+      "id": 3,
+      "img": "https://i.pinimg.com/736x/dd/73/45/dd7345e3eca4b289bc94763f80508794.jpg",
+      "name": "Minimal Bedroom",
+      "type": "Decor / Architecture"
+    }
+  ],
+  "kitchan": [
+    {
+      "id": 1,
+      "img": "https://images.squarespace-cdn.com/content/v1/656ed555ff5b9b57d101f69b/2cae4244-36df-4b4f-b8d0-89ee753abb7a/SmithandSmith_TimTurner_5174.jpg",
+      "name": "Minimal Kitchan",
+      "type": "Decor / Architecture"
+    },
+    {
+      "id": 2,
+      "img": "https://images.squarespace-cdn.com/content/v1/656ed555ff5b9b57d101f69b/2cae4244-36df-4b4f-b8d0-89ee753abb7a/SmithandSmith_TimTurner_5174.jpg",
+      "name": "Minimal Kitchan",
+      "type": "Decor / Architecture"
+    },
+    {
+      "id": 3,
+      "img": "https://images.squarespace-cdn.com/content/v1/656ed555ff5b9b57d101f69b/2cae4244-36df-4b4f-b8d0-89ee753abb7a/SmithandSmith_TimTurner_5174.jpg",
+      "name": "Minimal Kitchan",
+      "type": "Decor / Architecture"
+    }
+  ],
+  "livingarea": [
+    {
+      "id": 1,
+      "img": "https://media.architecturaldigest.com/photos/62f3c04c5489dd66d1d538b9/16:9/w_2560%2Cc_limit/_Hall_St_0256_v2.jpeg",
+      "name": "Minimal Living Area",
+      "type": "Decor / Architecture"
+    },
+    {
+      "id": 2,
+      "img": "https://media.architecturaldigest.com/photos/62f3c04c5489dd66d1d538b9/16:9/w_2560%2Cc_limit/_Hall_St_0256_v2.jpeg",
+      "name": "Minimal Living Area",
+      "type": "Decor / Architecture"
+    },
+    {
+      "id": 3,
+      "img": "https://media.architecturaldigest.com/photos/62f3c04c5489dd66d1d538b9/16:9/w_2560%2Cc_limit/_Hall_St_0256_v2.jpeg",
+      "name": "Minimal Living Area",
+      "type": "Decor / Architecture"
+    }
+  ]
+}
